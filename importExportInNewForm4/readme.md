@@ -1,0 +1,1 @@
+## Here if you want to use default import export method that you use in modern js you can use it by rename the file extension from .js to .mjs for normal js app but in node js app we use package.json file inside it we use mdoule key
