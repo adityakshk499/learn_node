@@ -23,3 +23,7 @@ console.log(path.basename(__dirname));
 // you can also check the extension
 
 console.log(path.extname(path.basename(__filename)));
+
+// it will help you out to join the paths
+
+console.log(path.join("hello", "world", "test.js"));
